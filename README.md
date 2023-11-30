@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taiyo-harenohi
-- 👀 I’m interested in C#, WPF, Web developing, Gamedev and Graphic Design
-- 🌱 I’m currently learning Web Development, Marketing, Graphic Design
+- 👀 I’m interested in Python, Graphic Design, Game Development, 3D modeling and AI
+- 🌱 I’m currently learning how to make freaking great games & designs
 
 <!---
 taiyo-harenohi/taiyo-harenohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
