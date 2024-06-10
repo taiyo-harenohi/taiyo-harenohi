@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taiyo-harenohi
-- 👀 I’m interested in Front-end Fevelopment, Python, Graphic Design, Game Development and 3D modeling
+- 👀 I’m interested in Front-end Development, Python, Graphic Design, Game Development and 3D modeling
 - 🌱 I’m currently learning how to make freaking great games
   
 - I also always forget to commit often when it comes to my freaking great games :´)
